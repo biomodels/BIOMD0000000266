@@ -1,3 +1,21 @@
+# BIOMD0000000266: voit03
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000266.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000266.git@20140916`
+
+
+# Model Notes
 
 
 This is the S systems model described in the article:  
@@ -33,4 +51,5 @@ changess the parameter values of X8 to X19 from 1 to the values given in table
 3 of th eoriginal publication.  
 As this is an S-systems model, it does not contain any reactions encoded in
 SBML.
+
 
